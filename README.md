@@ -1,6 +1,6 @@
 # UK Train Rides Project
 
-Final project for **DEPI (Professional Data Analyst track)**[cite: 1].
+Final project for **DEPI (Professional Data Analyst track)**.
 
 ## Overview
 End-to-end data analysis and business intelligence project covering UK train rides, combining cleaned datasets, SQL database modeling, simulated station/weather data scripts, project documentation, and presentation deliverables[cite: 1].
